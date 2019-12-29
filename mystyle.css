@@ -1,0 +1,13 @@
+body {
+  color:inherit;
+  background-color: inherit;
+  text-shadow: rgb(255, 0, 0);
+  text-decoration: underline;
+  text-rendering: geometricPrecision;
+  text-align:center;
+
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
